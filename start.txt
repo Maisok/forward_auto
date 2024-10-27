@@ -1,0 +1,4 @@
+composer install
+npm install -D tailwindcss postcss autoprefixer
+npm run dev
+php arisan serve
